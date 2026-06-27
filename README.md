@@ -15,7 +15,7 @@
 - 🎓 Studying **Computer Engineering** at Suranaree University of Technology (SUT) | **GPAX: 3.72**
 - 🌱 Passionate about **Fullstack Development, Web Applications, and System Architecture**.
 - 🎨 I enjoy blending technology with art, creating UX/UI designs, and video editing.
-- 📫 How to reach me: **pawit.chsn@gmail.com** | 📞 **061-598-0047**
+- 📫 How to reach me: [Click to Send Email](mailto:pawit.chsn@gmail.com)
 
 ---
 
@@ -121,6 +121,8 @@
 ---
 
 <p align="center">
-  <i>Let's connect and build something amazing together!</i><br>
-  📧 <a href="mailto:pawit.chsn@gmail.com">pawit.chsn@gmail.com</a> | 📞 061-598-0047
+  <i>Let's connect and build something amazing together!</i><br><br>
+  <a href="mailto:pawit.chsn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
