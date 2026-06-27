@@ -14,7 +14,6 @@
 
 - 🎓 Studying **Computer Engineering** at Suranaree University of Technology (SUT) | **GPAX: 3.72**
 - 🌱 Passionate about **Fullstack Development, Web Applications, and System Architecture**.
-- 💼 **Currently looking for an internship** (Oct 2026 – Jan 2027) to apply my skills and grow with an organization.
 - 🎨 I enjoy blending technology with art, creating UX/UI designs, and video editing.
 - 📫 How to reach me: **pawit.chsn@gmail.com** | 📞 **061-598-0047**
 
