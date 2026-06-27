@@ -96,7 +96,7 @@
 *   **Engineering Faculty Internal Platform**
     *   *React, TypeScript, Tailwind CSS, Go, SQLite* - Created an internal marketplace and online election system with high security.
 *   **Online E-Document System**
-    *   *Next.js, TypeScript, Tailwind CSS, Go, PostgreSQL, Azure, Cloudflare* - Developed a document management platform featuring real-time chat and an appointment system.
+    *   *Next.js, TypeScript, Tailwind CSS, Go, PostgreSQL, Azure, Cloudflare* - Developed a document management platform featuring and an appointment system.
 *   **Graphic Generation Program**
     *   *Python* - Designed and developed resolution graphics rendering program for cartoon line art.
 *   **Event Registration Web Application**
