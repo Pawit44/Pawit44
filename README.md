@@ -1,17 +1,127 @@
-<h1 align="center">Hi 👋, I'm Pawit</h1>
-<h3 align="center">Never Stop Learning</h3>
+<h1 align="center">Hi there! 👋 I'm Pawit Chamsanor</h1>
 
-- 🔭 I’m currently working on [carne-project-ui](https://github.com/Pawit44/CARNE.git)
+<h3 align="center">💻 Computer Engineering Student | 🌐 Fullstack & Software Developer</h3>
 
-- 🌱 I’m currently learning **Framworks , Cyber Security , NetWork**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Pawit44/project-work.git](https://github.com/Pawit44/project-work.git)
-
-- 📫 How to reach me **pwturik@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/Pawit44">
+    <img src="https://komarev.com/ghpvc/?username=Pawit44&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Studying **Computer Engineering** at Suranaree University of Technology (SUT) | **GPAX: 3.72**
+- 🌱 Passionate about **Fullstack Development, Web Applications, and System Architecture**.
+- 💼 **Currently looking for an internship** (Oct 2026 – Jan 2027) to apply my skills and grow with an organization.
+- 🎨 I enjoy blending technology with art, creating UX/UI designs, and video editing.
+- 📫 How to reach me: **pawit.chsn@gmail.com** | 📞 **061-598-0047**
+
+---
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+**Backend & API Development**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/GORM-29BEB0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005C84?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+</p>
+
+**Database & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+</p>
+
+**Tools & Networking**
+<p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_VLAN-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Projects
+
+*   **Workforce & HR Management System** (Supalai Public Company Limited)
+    *   *Next.js, TypeScript, Tailwind CSS, C# .NET Core* - Developed a large-scale HR system to reduce redundant tasks for a public company.
+*   **Real-time Traffic & Accident Detection Dashboard** (Department of Rural Roads)
+    *   *Frontend, API Integration, AI* - Built a real-time dashboard displaying traffic anomaly data processed by AI on Nvidia Jetson.
+*   **LEARn Coffee Database Management System**
+    *   *C#, Visual Studio* - Designed and developed a desktop POS system for coffee bean stock and sales management.
+*   **Carne AI Beef Quality Inspection Front-End**
+    *   *Figma, Frontend Dev* - Designed the UX/UI and developed the frontend for a specialized AI company.
+*   **Engineering Faculty Internal Platform**
+    *   *React, TypeScript, Tailwind CSS, Go, SQLite* - Created an internal marketplace and online election system with high security.
+*   **Online E-Document System**
+    *   *Next.js, TypeScript, Tailwind CSS, Go, PostgreSQL, Azure, Cloudflare* - Developed a document management platform featuring real-time chat and an appointment system.
+*   **Graphic Generation Program**
+    *   *Python* - Designed and developed a high-resolution graphics rendering program for cartoon line art.
+*   **Event Registration Web Application**
+    *   *GitHub Pages, Google Apps Script* - Built a personal event registration web app that automatically saves data to Google Sheets.
+*   **Smart IoT Shoe Dryer with Web Control**
+    *   *Embedded Software, Web Interface* - Developed software to allow a hardware shoe dryer to be controlled via a web interface.
+*   **Full-Stack To-Do App with Complete DevOps Pipeline**
+    *   *Next.js, Node.js/Express, PostgreSQL, Docker, Jenkins, Kubernetes, Prometheus, Grafana* - Built a highly scalable application with 100% automated CI/CD deployment and monitoring.
+*   **Personal Finance Management Platform**
+    *   *Database Design, Frontend/Backend* - Built a personal finance platform to record and calculate incomes and expenses.
+
+---
+
+### 🏆 Achievements
+
+*   🥇 **Winner** - Hackathon C2C Tech X by Supalai (HR Software System Design)
+*   🥇 **Winner** - P1 Startup Innovation Pitching
+*   🥇 **Winner** - Engineering Faculty T-Shirt Design
+*   🥇 **Winner** - AI Prompt Master (SUT Computer Engineering)
+*   🥉 **2nd Runner-up** - ENGi Research to Market
+
+---
+
+<p align="center">
+  <i>Let's connect and build something amazing together!</i><br>
+  📧 <a href="mailto:pawit.chsn@gmail.com">pawit.chsn@gmail.com</a> | 📞 061-598-0047
+</p>
