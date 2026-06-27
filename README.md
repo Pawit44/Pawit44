@@ -85,7 +85,7 @@
 
 ### 🚀 Projects
 
-*   **Workforce & HR Management System** (Supalai Public Company Limited)
+*   **HR Manpower Management System** (Supalai Public Company Limited)
     *   *Next.js, TypeScript, Tailwind CSS, C# .NET Core* - Developed a large-scale HR system to reduce redundant tasks for a public company.
 *   **Real-time Traffic & Accident Detection Dashboard** (Department of Rural Roads)
     *   *Frontend, API Integration, AI* - Built a real-time dashboard displaying traffic anomaly data processed by AI on Nvidia Jetson.
@@ -98,7 +98,7 @@
 *   **Online E-Document System**
     *   *Next.js, TypeScript, Tailwind CSS, Go, PostgreSQL, Azure, Cloudflare* - Developed a document management platform featuring real-time chat and an appointment system.
 *   **Graphic Generation Program**
-    *   *Python* - Designed and developed a high-resolution graphics rendering program for cartoon line art.
+    *   *Python* - Designed and developed resolution graphics rendering program for cartoon line art.
 *   **Event Registration Web Application**
     *   *GitHub Pages, Google Apps Script* - Built a personal event registration web app that automatically saves data to Google Sheets.
 *   **Smart IoT Shoe Dryer with Web Control**
